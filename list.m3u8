@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZEE.TV.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-tv-in.png" group-title="hilaytv",ZEE TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:-1 tvg-id="ZEE.CINEMA.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cinema-in.png" group-title="hilaytv",ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="ZEE.CINEMA.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cinema-hd-in.png" group-title="hilaytv",ZEE CINEMA HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#EXTINF:-1 tvg-id="ZEE.Bollywood.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-bollywood-in.png" group-title="hilaytv",ZEE Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#EXTINF:-1 tvg-id="ZEE.ANMOL.in" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png"group-title="hilaytv",ZEE Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+#EXTINF:-1 tvg-id="ZEE.ANMOL.CINEMA.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-anmol-cinema-in.png"group-title="hilaytv",ZEE Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTINF:-1 channel-id="CHBD27000011N" tvg-id="CHBD27000011N" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD27000011N_20250701T033229SQUARE.png" group-title="SamsungTVPlus-All",Zee One
+https://jmp2.uk/stvp-CHBD27000011N
+#EXTINF:-1 channel-id="FR360000680" tvg-id="FR360000680" tvg-chno="4273" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20251013T054021SQUARE.png" group-title="SamsungTVPlus-All",Zee One
+https://jmp2.uk/stvp-FR360000680
+#EXTINF:-1 channel-id="DEAJ2900003CN" tvg-id="DEAJ2900003CN" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20251013T054836SQUARE.png" group-title="SamsungTVPlus-All",Zee One
+https://jmp2.uk/stvp-DEAJ2900003CN
+#EXTINF:-1 channel-id="IT23000034W" tvg-id="IT23000034W" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT23000034W_20251118T015444SQUARE.png" group-title="SamsungTVPlus-All",Al Jazeera
+https://jmp2.uk/stvp-IT23000034W
+#EXTINF:-1 channel-id="ES2300004XW" tvg-id="ES2300004XW" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png" group-title="SamsungTVPlus-All",Al Jazeera
+https://jmp2.uk/stvp-ES2300004XW
+#EXTINF:-1 channel-id="GB2300005ML" tvg-id="GB2300005ML" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300005ML_20251118T015422SQUARE.png" group-title="SamsungTVPlus-All",Al Jazeera
+https://jmp2.uk/stvp-GB2300005ML
+#EXTINF:-1 tvg-id="Aljazeera.id" tvg-name="" tvg-logo="https://medianet.mv/media/channel/37x0-icon.png" group-title="hilaytv",AL JAZEERA ARABIC
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 channel-id="DE1400002W0" tvg-id="DE1400002W0" tvg-chno="4210" tvg-name="Zee TV HD DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400002W0_20260120T031252SQUARE.png" group-title="SamsungTVPlus-All",Zee TV HD DE
+https://jmp2.uk/stvp-DE1400002W0
+#EXTINF:-1 channel-id="ATBA3300006WH" tvg-id="ATBA3300006WH" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300006WH_20251013T053746SQUARE.png" group-title="SamsungTVPlus-All",Zee One
+https://jmp2.uk/stvp-ATBA3300006WH
+#EXTINF:-1 channel-id="CH1400001FA" tvg-id="CH1400001FA" tvg-chno="4210" tvg-name="Zee TV HD DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1400001FA_20260127T040022SQUARE.png" group-title="SamsungTVPlus-All",Zee TV HD DE
+https://jmp2.uk/stvp-CH1400001FA
+#EXTINF:-1 tvg-id="Zee.News.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-news-in.png" group-title="hilaytv",ZEE NEWS
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-id="SONY.AATH.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-aath-in.png" group-title="hilaytv",Sony Aath
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=23798
+#EXTINF:-1 channel-id="FR23000013B" tvg-id="FR23000013B" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.png" group-title="SamsungTVPlus-All",Al Jazeera
+https://jmp2.uk/stvp-FR23000013B
+#EXTINF:-1 tvg-id="ZEE.TV.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-tv-hd-in.png" group-title="hilaytv",ZEE TV HD
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=98
+#EXTINF:-1 channel-id="AT1400001YL" tvg-id="AT1400001YL" tvg-chno="4210" tvg-name="Zee TV HD DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1400001YL_20260127T040731SQUARE.png" group-title="SamsungTVPlus-All",Zee TV HD DE
+https://jmp2.uk/stvp-AT1400001YL
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="hilaytv",Al Jazeera (1080p)
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 channel-id="ATBA3300006WH-at" tvg-id="ATBA3300006WH" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300006WH_20250107T022248SQUARE.png" group-title="hilaytv",Zee One
+https://jmp2.uk/stvp-ATBA3300006WH
+#EXTINF:-1 channel-id="FR360000680-fr" tvg-id="FR360000680" tvg-chno="4273" tvg-name="Zee Magic" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20250805T005522SQUARE.png" group-title="hilaytv",Zee Magic
+https://jmp2.uk/stvp-FR360000680
+#EXTINF:-1 channel-id="DEAJ2900003CN-de" tvg-id="DEAJ2900003CN" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20250107T024450SQUARE.png" group-title="hilaytv",Zee One
+https://jmp2.uk/stvp-DEAJ2900003CN
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj" group-title="hilaytv",Al Jazeera Mubasher (1080p)
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF: -1 tvg-id="ZeeTamil.in" tvg-chno="197" tvg-logo="https://yt3.googleusercontent.com/GJVGgzRXxK1FDoUpC8ztBHPu81PMnhc8inodKtEckH-rykiYLzg93HUQIoTIirwORynozMkR=s900-c-k-c0x00ffffff-no-rj" group-title="hilaytv", Zee Tamil News
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa" tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj" group-title="hilaytv",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_Caf%C3%A9_2025.svg/330px-Zee_Caf%C3%A9_2025.svg.png" group-title="hilaytv",Zee Cafe
+https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa" tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj" group-title="hilaytv",Al Jazeera Mubasher Broadcast 2 (1080p)
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 channel-id="CHBD27000011N-ch" tvg-id="CHBD27000011N" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD27000011N_20250701T033229SQUARE.png" group-title="hilaytv",Zee One
+https://jmp2.uk/stvp-CHBD27000011N
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/94.png" group-title="BD",zee bollywood
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-bollywood/index.m3u8?token=c16aa69eb7051716223bb30f7ac5ebd18f5f4fe7-45f98326e25e5c30af17f946112731c5-1771403875-1771400275
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/29.png" group-title="BD",zee bangla cinema
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-bangla-cinema/index.m3u8?token=0e7f8427e713b0ed7dbe46251558ef3faec6f49f-df75b12acffcb03a085c97d209718f76-1771403875-1771400275
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/34.png" group-title="BD",zee bangla
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-bangla/index.m3u8?token=21bfb647f8b9fcdc9a1e937f4d3d27566f93ac14-98b98241bd7330f25260a7bdaeed0fea-1771403875-1771400275
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/40.png" group-title="BD",zee tv
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-tv-hd/index.m3u8?token=55e24046c3f60c4fb7e162d363ddf6ccaeee4a0a-a584ff63f5a6d20d62378b62971555a8-1771403875-1771400275
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/zee-anmol.png" group-title="BD",zee-anmol
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-anmol/index.m3u8?token=f851600af28bb0311109a986ef052ea47d5e6fd7-24960c252bfe479a001e8fca82cef1ca-1771403875-1771400275
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf" group-title="BD",AlJazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/33.png" group-title="BD",sony aath
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-aath/index.m3u8?token=83c2d65ccac9271f179f5e09606f4a95570dadf2-b273ff4ccb304f1dd9f417070ae9c0bf-1771403875-1771400275
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/76.png" group-title="BD",zee cinema
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-cinema-hd/index.m3u8?token=5753f2d1e08dc61c0667893f4a2f93fd7bf0bfe1-c210b32af323f846aaf770bf89b524d4-1771403875-1771400275
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/69.png" group-title="BD",zee cafe hd
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-cafe/index.m3u8?token=bd22d842e46540a17981a8a8e243f22af99c0513-fde293d211825051d2d465e16996d3fc-1771403875-1771400275
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/90.png" group-title="BD",zee action
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-action/index.m3u8?token=3c2b2b7c5e6d72d7ac65a4f14c2ee07ffe74b92b-de28a161ad72b29368b96bdb30d2ec47-1771403875-1771400275
+#EXTINF:-1 tvg-name="StarJalsha HD" group-title="BD",StarJalsha HD
+https://sonamul3535.vercel.app/Star-jalsha-HD.m3u8
+#EXTINF:-1 tvg-name="AAKASH AATH" group-title="BD",AAKASH AATH
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-id="25" tvg-chno="12" tvg-name="zee-hindustan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png" group-title="Yupptv", Zee Hindustan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8?hdnts=st%3D1771406917~exp%3D1771428517~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeehindustan%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F96bbab12-582e-4540-af70-510ab6824581%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_25_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_25_-1~hmac%3D0b5e85e469eae4910f664a361a26fa501f64a5da3b990ba90bfd8c017e5343f1
+#EXTINF:-1 tvg-id="13" tvg-chno="8" tvg-name="zee-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png" group-title="Yupptv", Zee News
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?hdnts=st%3D1771406916~exp%3D1771428516~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeenews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8744f9fb-d696-4204-9795-5215ad930c39%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_13_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_13_-1~hmac%3D9ec89381a4ce8acc1b01da95bc1d98e3569bf7c5a302b9550d7daf7a41e8e587
+#EXTINF:-1 tvg-name="AAKASH AATH" group-title="BD",AAKASH AATH
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-chno="51" tvg-name="zee-business" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png" group-title="Yupptv", Zee Business
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8?hdnts=st%3D1771406929~exp%3D1771428529~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee_business%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Faf1b3fa3-f56d-4741-9c63-78409a798988%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_5_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_5_-1~hmac%3Dcba03130061faaaae8e2cf32ef493daf75bd1fbd7b556e71a372535bb528aebd
+#EXTINF:-1 tvg-id="33" tvg-chno="410" tvg-name="zee-news-telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aquwob.png" group-title="Yupptv", Zee News Telugu
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8?hdnts=st%3D1771406940~exp%3D1771428540~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeetelugunews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F17fe98f0-d496-4c26-beeb-96b466d01162%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_33_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_33_-1~hmac%3D048c7b21f1b619efd4a37f52bdf1e34dfb56412910db521de4d5afa5ab924f67
+#EXTINF:-1 tvg-id="26" tvg-chno="22" tvg-name="zee-rajasthan-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png" group-title="Yupptv", Zee Rajasthan News
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8?hdnts=st%3D1771406921~exp%3D1771428521~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeerajashthannews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8e864b9a-1681-41a0-99a6-387490bc5b24%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_26_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_26_-1~hmac%3Db667043da474fa1956a55dc5611d0dd2ef1a1050a281d698cf98c985c9b99136
+#EXTINF:-1 tvg-id="28" tvg-chno="19" tvg-name="zee-madhya-pradesh-chhattisgarh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png" group-title="Yupptv", Zee Madhya Pradesh Chhattisgarh
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8?hdnts=st%3D1771406920~exp%3D1771428520~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeemadhyachhattisgarh%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2ab17056-6187-4f0e-a34d-f436ac479d6c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_28_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_28_-1~hmac%3Dec76dc29bc098fb406ae3560f04f307516ade707518041c97f1922e86f3abc21
+#EXTINF:-1 tvg-id="29" tvg-chno="21" tvg-name="zee-up-uk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png" group-title="Yupptv", Zee UP UK
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/main.m3u8?hdnts=st%3D1771406920~exp%3D1771428520~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeeupuk%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa8c57b70-538f-49ae-af12-2fc2acaa4ff1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_29_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_29_-1~hmac%3D9296ad2144883ed55bd68d4e450b781091ed76c426ddfed100a418e8a008f317
+#EXTINF:-1 tvg-id="27" tvg-chno="801" tvg-name="zee-salaam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uudnpd.png" group-title="Yupptv", Zee Salaam
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8?hdnts=st%3D1771406948~exp%3D1771428548~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeesalaam%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F426c6db7-595e-4aa8-859c-7e86ed2811d0%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_27_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_27_-1~hmac%3Da25312fc41d6778395bb8c8ed24be3b978dfd435a0309e5a787824453c476b1a
+#EXTINF:-1 tvg-id="32" tvg-chno="753" tvg-name="zee-24-kalak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vbezgf.png" group-title="Yupptv", Zee 24 Kalak
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/main.m3u8?hdnts=st%3D1771406947~exp%3D1771428547~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24kalak%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F497f7199-758d-495d-9d2f-a5489231c428%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_32_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_32_-1~hmac%3D46c6ac485a58565c52257cb5c8be119cfd55cf6491a7517822a51f351c937bf8
+#EXTINF:-1 tvg-id="30" tvg-chno="16" tvg-name="zee-bihar-jharkhand" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png" group-title="Yupptv", Zee Bihar Jharkhand
+https://yupprestreamliveus.akamaized.net/vglive-sk-198870/main.m3u8?hdnts=st%3D1771406918~exp%3D1771428518~acl%3D%21%2A%2Fvglive-sk-198870%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_30_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_30_-1~hmac%3D86211986e0462c7e7e3eb9ab3cbc3f50bdb1aa739da0524f402cd4f520ea10e3
+#EXTINF:-1 tvg-id="15" tvg-chno="705" tvg-name="zee-punjab-haryana-himachal" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rkpgdq.png" group-title="Yupptv", Zee Punjab Haryana Himachal
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8?hdnts=st%3D1771406948~exp%3D1771428548~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeepunjabharyanahima%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F65eed269-2f3a-4dd0-ac89-d18959af28e3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_15_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_15_-1~hmac%3D030d202fdc2671a67c94af8dabd078f7ffbdf84997f6bcc76e4754aba7a5c4eb
+#EXTINF:-1 tvg-id="31" tvg-chno="17" tvg-name="zee-delhi-ncr-haryana" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png" group-title="Yupptv", Zee Delhi NCR Haryana
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8?hdnts=st%3D1771406919~exp%3D1771428519~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeedelhincr%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fcc483a15-1b39-4642-872d-5d08d362ed01%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_31_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.241_yuppfast_2_channel_31_-1~hmac%3D5e8e90b9308cb9b7827fe8c1d7d11ef655cb14dba1a32039a9442b96a88b2ee8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-678287e75fe5e4eb1e030c65-es" tvg-id="643054b1fc3be59477853717-678287e75fe5e4eb1e030c65" tvg-chno="" tvg-name="Zee BollyWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png" group-title="Plex-All",Zee BollyWorld
+https://jmp2.uk/plex-643054b1fc3be59477853717-678287e75fe5e4eb1e030c65.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65-us" tvg-id="5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65" tvg-chno="" tvg-name="Zee BollyWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png" group-title="Plex-All",Zee BollyWorld
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65.m3u8
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-678287e75fe5e4eb1e030c65-mx" tvg-id="608049aefa2b8ae93c2c3a63-678287e75fe5e4eb1e030c65" tvg-chno="" tvg-name="Zee BollyWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png" group-title="Plex-All",Zee BollyWorld
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-678287e75fe5e4eb1e030c65.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65-nz" tvg-id="5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65" tvg-chno="" tvg-name="Zee BollyWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png" group-title="Plex-All",Zee BollyWorld
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-678287e75fe5e4eb1e030c65-ca" tvg-id="647f8d22a2fc3fadb4721685-678287e75fe5e4eb1e030c65" tvg-chno="" tvg-name="Zee BollyWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png" group-title="Plex-All",Zee BollyWorld
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678287e75fe5e4eb1e030c65.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-678287e75fe5e4eb1e030c65-au" tvg-id="697140a85d851f5e69414688-678287e75fe5e4eb1e030c65" tvg-chno="" tvg-name="Zee BollyWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png" group-title="Plex-All",Zee BollyWorld
+https://jmp2.uk/plex-697140a85d851f5e69414688-678287e75fe5e4eb1e030c65.m3u8
