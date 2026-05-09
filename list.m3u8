@@ -5,8 +5,9 @@ https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png",STAR JALSHA HD (Ads Only)
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Goyen_Da_Zee_Bangla_Cinema" tvg-logo="https://cds1.discoveryftp.net/Movies/Bangla/2016/Goyen%20Da%20%20Zee%20Bangla%20Cinema/poster.jpg",Goyen Da Zee Bangla Cinema (2016)
-http://cds1.discoveryftp.net/Movies/Bangla/2016/Goyen%20Da%20%20Zee%20Bangla%20Cinema/Goyen%20Da%20-%20Zee%20Bangla%20Cinema%20%282016%29%20-%20DTH%20Rip.mkv?md5=g0h35gAEaybXVa7u9yGmpA&expires=1777845216
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Mach_Ranga_TV" tvg-logo="https://cds1.discoveryftp.net/Movies/Bangla/2016/Goyen%20Da%20%20Zee%20Bangla%20Cinema/poster.jpg",Mach Ranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
 
 
 
