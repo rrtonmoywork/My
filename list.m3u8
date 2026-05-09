@@ -7,7 +7,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 group-title="Movies - Bangla" tvg-id="Mach_Ranga_TV" tvg-logo="https://cds1.discoveryftp.net/Movies/Bangla/2016/Goyen%20Da%20%20Zee%20Bangla%20Cinema/poster.jpg",Mach Ranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="Bangla",Channel I
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1 tvg-name="Channel 9" group-title="Live Tv",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="Bangladeshi ",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Akash Go",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
