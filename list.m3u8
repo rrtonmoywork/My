@@ -17,7 +17,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:STAR_Movies_logo.svg" group-title="Hindi",Star Movies
 http://10.189.188.187/webplayer/webplayer/70.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Bangla",Zee Banlga
-http://10.189.188.187/webplayer/webplayer/68.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png",STAR JALSHA HD 2
-http://10.189.188.187/webplayer/webplayer/69.m3u8
+#EXTINF:-1 tvg-name="BD: ZEE BANGLA HD" tvg-id="zeebanglahd.in" group-title="BANGLA",BD: ZEE BANGLA HD
+http://fastshare1.com:80/live/25711345/late8airline/435.ts
+#EXTINF:-1 tvg-name="DE | Fusball TV 2 World Cup 2026 [HD]" group-title="FIFA World Cup 2026",DE | Fusball TV 2 World Cup 2026 [HD]
+http://fastshare1.com:80/live/25711345/late8airline/742611.ts
+#EXTINF:-1 tvg-name="SUPER SPORTS FIFA" tvg-id="supersportpremierleague.za" group-title="FIFA World Cup 2026",SUPER SPORTS FIFA
+http://fastshare1.com:80/live/25711345/late8airline/741566.ts
+#EXTINF:-1 tvg-name="SS World Cup Central" group-title="FIFA World Cup 2026",SS World Cup Central
+http://fastshare1.com:80/live/25711345/late8airline/745149.ts
+#EXTINF:-1 tvg-name="DE | Fusball TV 1 World Cup 2026 [HD]" group-title="FIFA World Cup 2026",DE | Fusball TV 1 World Cup 2026 [HD]
+http://fastshare1.com:80/live/25711345/late8airline/742610.ts
+#EXTINF:-1 tvg-name="Unite8 Sports 1 HD" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
+http://fastshare1.com:80/live/25711345/late8airline/741567.ts
+#EXTINF:-1 tvg-name="SS World Cup Pass" group-title="FIFA World Cup 2026",SS World Cup Pass
+http://fastshare1.com:80/live/25711345/late8airline/745195.ts
+#EXTINF:-1 tvg-name="Fox Sports 1 (FS1) [English]" group-title="FIFA World Cup 2026",Fox Sports 1 (FS1) [English]
+http://fastshare1.com:80/live/25711345/late8airline/751354.ts
+#EXTINF:-1 tvg-name="Unite8 Sports 2 HD" group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
+http://fastshare1.com:80/live/25711345/late8airline/745202.ts
