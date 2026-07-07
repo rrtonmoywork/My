@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225805.png", BAN|  STAR JALSHA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225805.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/1118057.png", BENGALI| STAR JALSHA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/1118057.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/1118058.png", BENGALI| STAR JALSHA MOVIES HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/1118058.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE BANGLA HD.png", ┃BANGLA┃ ZEE BANGLA HD (Back-Up)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908681.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE BANGLA.png", ┃BANGLA┃ ZEE BANGLA
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/SONY AATH.png", ┃BANGLA┃ SONY AATH
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908674.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA+.png", ┃BANGLA┃ STAR JALSHA+
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA HD.png", ┃BANGLA┃ STAR JALSHA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png",STAR JALSHA HD
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="sonyaathhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",SONY AATH HD
