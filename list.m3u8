@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 , zee bangla best
+http://redforce.live:8082/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=8e48cfcef2a6e7e8bec3fc93c5fa208f83cd196f-ba90b5bd9c8a8e367f67eecdc421191e-1783875020-1783864220
+#EXTINF:-1 , Star Jalsh Best
+http://redforce.live:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=e8e3709874a82a0b264d32f99710685b36148a7d-d1284b918bdd080173c4d547f1097788-1783874901-1783864101
 #EXTINF:-1 ,Sony Aath
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 #EXTINF:-1 tvg-name="BD: STAR JALSHA (4K)." tvg-id="starjalshahd.in" group-title="BANGLA",BD: STAR JALSHA (4K).
