@@ -9,3 +9,55 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225776.m3u8
 #EXTINF:-1,Zee Bangla 1080_1920
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.m3u8
+#EXTINF:-1,Channel I 720_1280
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
+#EXTINF:-1,Ntv 720_1280
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv&format=.m3u8
+#EXTINF:-1,Sony Aath 720_1280
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN%20BANGLA1745044183.png",ATN BANGLA (RED)
+http://redforce.live:8082/ATN.BANGLA.HD/index.m3u8?token=e04c4316e6d53964c96249855df2dcb567230648-65a15ac07f44c99e91ea71ee26a62583-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CARTOON%20NETWORK1745033414.png",CARTOON NETWORK (RED)
+http://redforce.live:8082/CARTON.NETWORK.HD/index.m3u8?token=942448b987a8db5cca7cc74b1a93a7d87ddf4620-c460ca3c8094d978457c1edd8428d9a0-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CHANNEL%20I1745044237.png",CHANNEL I (RED)
+http://redforce.live:8082/CHANNEL.I.HD/index.m3u8?token=9b25a5aebfdc77ec5141fceda2b400c321661328-502f9fbfab1e167955966418243cb64a-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS%20BANGLA%20CINEMA1745041486.png",COLORS BANGLA CINEMA (RED)
+http://redforce.live:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=9b055a425831584a95ad2d1f777d9360dcaa85b5-2091a37228cb4510e3a7d4f7724fa3ee-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS%20BANGLA%20HD1745033576.png",COLORS BANGLA HD (RED)
+http://redforce.live:8082/COLORS.BANGLA.HD/index.m3u8?token=7320fda17aa1ca665f44f63910aac50e5f569624-51d9f7ca8367ba95dff5bec3aaf8785a-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS%20CINEPLEX%20HD1745033519.png",COLORS CINEPLEX HD (RED)
+http://redforce.live:8082/COLORS.CINEPLEX.HD/index.m3u8?token=a653efd4d2ed8167cfbd137450d2502cfbc87876-58dae809b33b886367f782d1e60ce428-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS%20HD1745031404.png",COLORS HD (RED)
+http://redforce.live:8082/COLORS.HD/index.m3u8?token=fc580ff54b38f7e631a0c0bf3663e235264cbf79-f2e31d5dd4e744102382772352aefc6c-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/DISNEY%20JUNIAR1750870581.png",DISNEY JUNIAR (RED)
+http://redforce.live:8082/DISNEY.JUNIAR/index.m3u8?token=93643a594839b3ca0b25bf4fa46849ff95856ea5-680707f65688ed78a5cae49b3efc2138-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA%20MOVIES%20HD1745034005.png",JALSHA MOVIES HD (RED)
+http://redforce.live:8082/JALSHA.MOVIES.HD/index.m3u8?token=3badf844f9d958a0c56eb6e6488e9354df06cc85-255a541f78db6588b07139696926a0c8-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MAX%2011748857466.png",MAX 1 (RED)
+http://redforce.live:8082/AND.PRIVE.HD/index.m3u8?token=9d642115404bb357b2de1f0c34ba49f9934a7ca3-cd810c2832442aaf1340303ad34f1cff-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MAX%2021748857338.png",MAX 2 (RED)
+http://redforce.live:8082/AND.FLIX.HD/index.m3u8?token=edbf237b7e512d7ac3813c9ee488eb1406f530ef-93165dfa9a0c20962413a6808f2447c3-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MOVIES%20NOW%20HD1745040368.png",MOVIES NOW HD (RED)
+http://redforce.live:8082/MOVIES.NOW.HD/index.m3u8?token=cba486a2a8a2624bf03174da0d7ce1223b78ed7e-b6d5859cef6555a89a5f520eb8b9a459-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Music%20India1750867544.png",Music India (RED)
+http://redforce.live:8082/Music.India/index.m3u8?token=6532e663f8a24cd9f95f21f9099a7ebf4d9b9311-1aa1d841181a35787f669d782b1d262e-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK1745041451.png",NICK (RED)
+http://redforce.live:8082/NICK/index.m3u8?token=ae3f637db0b902238153bfe3995b1b8f66c6df41-f774ecc63d7788648506008eeb0fba85-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK%20JR1745042397.png",NICK JR (RED)
+http://redforce.live:8082/NICK.JR/index.m3u8?token=9682e90f4f18b4f32a045525b460ec876b6b2802-673b98e45e62199fb86b1f836cd73080-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Sangeet%20Bangla1750870252.png",Sangeet Bangla (RED)
+http://redforce.live:8082/Sangeet.Bangla/index.m3u8?token=bde1ae32b66b98e04514d160475910dc4c422545-54e35e70f865cec83660c193c52d4f47-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY%20AAT1745041124.png",SONY AAT (RED)
+http://redforce.live:8082/SONY.AAT/index.m3u8?token=0c3a1e7d098dc1cfcc0dd258b949a650bb53fc3a-a7a0a21e401223778b7a11517df271af-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",STAR JALSHA HD (RED)
+http://redforce.live:8082/STAR.JALSHA.HD/index.m3u8?token=5da3d4704cac670847159bba6abc80288099cc38-3905803ec2d82644f1711c647b996592-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD (RED)
+http://redforce.live:8082/STAR.MOVIES.HD/index.m3u8?token=c389446efce147714c8a03bc1fa36327618aff8c-631088fd3e7bc1b940f61314233c99dd-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20MOVIES%20SELECT%20HD1745038723.png",STAR MOVIES SELECT HD (RED)
+http://redforce.live:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=d8f9869c982c7f7b0498335f543e096c7f13762c-a707538865894b2dd491b81fc9593a00-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20CINEMA1745040996.png",ZEE BANGLA CINEMA (RED)
+http://redforce.live:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=57bdf4604049c82ceea4e16595266d2b4115ed20-73fa6b45fa58f5000b81d8ddbed9967f-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png",ZEE BANGLA HD (RED)
+http://redforce.live:8082/ZEE.BANGLA.HD/index.m3u8?token=24fcdb50f6966d590686f7cb8fc8df07fa5eaed7-162fb0cf99ddda925765fba4209b7c6c-1782235804-1782225004
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20CINEMA%20HD1745033602.png",ZEE CINEMA HD (RED)
+http://redforce.live:8082/ZEE.CINEMA.HD/index.m3u8?token=4e05188e676fbcca333274188d23eb9bc2cb79d5-b32bfa1609918f47825967d854a3bf8b-1782235804-1782225004
