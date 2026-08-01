@@ -1,19 +1,14 @@
 #EXTM3U
-#EXTINF:-1,Channel I 720_1280
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",Channel I 720_1280
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
 #EXTINF:-1,Ntv 720_1280
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1,Sony Aath 480_854
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
-#EXTINF:-1,Star Jalsha 720_1280
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",Star Jalsha 720_1280
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225776.m3u8
-#EXTINF:-1,Zee Bangla 1080_1920
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png",Zee Bangla 1080_1920
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.m3u8
-#EXTINF:-1,Channel I 720_1280
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
-#EXTINF:-1,Ntv 720_1280
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv&format=.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA%20MOVIES%20HD1745034005.png",JALSHA MOVIES HD (RED)
 http://redforce.live:8082/JALSHA.MOVIES.HD/index.m3u8?token=cecd4986a49dd455be6886e38af131096cf8a623-9bad7b792abfe0c0fa51afda79747667-1781568326-1781557526
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",STAR JALSHA HD (RED)
