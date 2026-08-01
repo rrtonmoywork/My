@@ -1,23 +1,131 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",Channel I 720_1280
+#EXTINF:-1 group-title="" tvg-logo="", Channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Channel I
+https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: ZEE BANGLA (4K).
+http://fastshare1.com:80/live/25711345/late8airline/98881.ts
+#EXTINF:-1 group-title="" tvg-logo="", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: STAR JALSHA (4K).
+http://fastshare1.com:80/live/25711345/late8airline/98883.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: CHANNEL I
+http://fastshare1.com:80/live/25711345/late8airline/34665.ts
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ STAR JALSHA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: ZEE BANGLA HD
+http://fastshare1.com:80/live/25711345/late8airline/435.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD_NTV Bangla HD
+http://fastshare1.com:80/live/25711345/late8airline/424.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD : Star Jalsa HD
+http://fastshare1.com:80/live/25711345/late8airline/198.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: STAR JALSHA MOVIES FHD
+http://fastshare1.com:80/live/25711345/late8airline/425.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD_Channel I UK
+http://fastshare1.com:80/live/25711345/late8airline/392.ts
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ NTV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908670.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ STAR JALSHA MOVIES
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908675.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ NTV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908651.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", IN: SONY Aath
+http://fastshare1.com:80/live/25711345/late8airline/4083.ts
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ SONY AATH
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908674.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ STAR JALSHA+
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ ZEE BANGLA HD (Back-Up)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908681.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: Star Jalsa (HD)
+http://fastshare1.com:80/live/25711345/late8airline/8540.ts
+#EXTINF:-1 group-title="┃ASIA┃ BANGLA" tvg-logo="", ┃BANGLA┃ ZEE BANGLA
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: ZEE BANGLA (FHD)
+http://fastshare1.com:80/live/25711345/late8airline/23305.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: Star Jalsha (FHD)
+http://fastshare1.com:80/live/25711345/late8airline/23218.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: GreenTv
+http://fastshare1.com:80/live/25711345/late8airline/257227.ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", BD: ZEE BANGLA CINEMA
+http://fastshare1.com:80/live/25711345/late8airline/49615.ts
+#EXTINF:-1 group-title="" tvg-logo="", Sony Aath
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
+#EXTINF:-1 group-title="" tvg-logo="", NTV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Sony Aath
+http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/155774.png", BENGALI| ZEE BANGLA FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/155774.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/155771.png", BENGALI| STAR JALSHA MOVIES FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/155771.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/155770.png", BENGALI| STAR JALSHA FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/155770.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/1118057.png", BENGALI| STAR JALSHA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/1118057.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-BANGLA-CINEMA.png", BENGALI| ZEE BANGLA CINEMA
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/155782.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/42462.png", BAN| NTV BANGLA EU
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/42462.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/1112197.png", BENGALI| SONY AATH
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/1112197.m3u8
+#EXTINF:-1 group-title="ASIA | BENGALI/BANGLA" tvg-logo="http://picons.cmshulk.com/picons/1118058.png", BENGALI| STAR JALSHA MOVIES HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/1118058.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/282666.png", BAN| STAR JALSHA MOVIES FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/282666.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225805.png", BAN|  STAR JALSHA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225805.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225796.png", BAN|  ZEE BANGLA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225796.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225786.png", BAN|  ZEE BANGLA
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225786.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225776.png", BAN|  STAR JALSHA MOVIES
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225776.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225777.png", BAN|  STAR JALSHA
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225777.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225775.png", BAN|  SONY AATH
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225775.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225765.png", BAN|  NTV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225765.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://103.176.90.118/picons/logos/ZEE-BANGLA-CINEMA.png", BAN|  ZEE BANGLA CINEMA
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225781.m3u8
+#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225764.png", BAN|  NTV UK
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225764.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Channel I
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", ZEE BANGLA
+http://103.159.180.34:5001/live/625.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", NTV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Zee Bangla Sonar
+http://103.159.180.34:5001/live/3476.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Ntv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", ZEE BANGLA
+https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png", Channel I 720_1280
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
-#EXTINF:-1,Ntv 720_1280
+#EXTINF:-1 group-title="" tvg-logo="", Ntv 720_1280
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1,Sony Aath 480_854
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",Star Jalsha 720_1280
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225776.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png",Zee Bangla 1080_1920
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA%20MOVIES%20HD1745034005.png",JALSHA MOVIES HD (RED)
-http://redforce.live:8082/JALSHA.MOVIES.HD/index.m3u8?token=cecd4986a49dd455be6886e38af131096cf8a623-9bad7b792abfe0c0fa51afda79747667-1781568326-1781557526
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",STAR JALSHA HD (RED)
+#EXTINF:-1 group-title="" tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png", STAR JALSHA HD (RED)
 http://redforce.live:8082/STAR.JALSHA.HD/index.m3u8?token=d567156ba13fed1b35edf6e6a4514b0bcab78195-12cb2261032eed8126c76dff29f659f5-1781568326-1781557526
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD (RED)
-http://redforce.live:8082/STAR.MOVIES.HD/index.m3u8?token=f7ae5f94b062bca71dfde8475c2b2d779422984a-429151460662b2c1a547b15c7969c16f-1781568326-1781557526
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20CINEMA1745040996.png",ZEE BANGLA CINEMA (RED)
+#EXTINF:-1 group-title="" tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20CINEMA1745040996.png", ZEE BANGLA CINEMA (RED)
 http://redforce.live:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=84b7163b0254322f80e77c8c3419ffd372095372-5a757d46a31bb13a9abad1923748256e-1781568326-1781557526
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png",ZEE BANGLA HD (RED)
+#EXTINF:-1 group-title="" tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png", ZEE BANGLA HD (RED)
 http://redforce.live:8082/ZEE.BANGLA.HD/index.m3u8?token=5aa5de04287bf5df47177479a36d33f926160189-1cd4404f6afabcc205d4656121454bbb-1781568326-1781557526
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20CINEMA%20HD1745033602.png",ZEE CINEMA HD (RED)
-http://redforce.live:8082/ZEE.CINEMA.HD/index.m3u8?token=d7359829eb8359c33aba2d587c1f1e163bca81b6-8617d8c4e9276fb6f158c77b41aae8bc-1781568326-1781557526
+#EXTINF:-1 group-title="" tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png", Star Jalsha 720_1280
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225776.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png", Zee Bangla 1080_1920
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Sony Aath 480_854
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", Channel I
+http://fastshare1.com:8080//live/25711345/late8airline/34665.ts
+#EXTINF:-1 group-title="" tvg-logo="", NTV
+http://fastshare1.com:8080//live/25711345/late8airline/424.ts
