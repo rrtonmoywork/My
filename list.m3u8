@@ -5,3 +5,15 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE BANGLA.png",Zee Bangla 1080_1920
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA%20MOVIES%20HD1745034005.png",JALSHA MOVIES HD (RED)
+http://redforce.live:8082/JALSHA.MOVIES.HD/index.m3u8?token=9ce515aa431681fc61faed873e57be1d4447b497-40e0bc3555ddb2cae889cabe0d0d0051-1781570719-1781559919
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",STAR JALSHA HD (RED)
+http://redforce.live:8082/STAR.JALSHA.HD/index.m3u8?token=46ef94accde9d42907fa2f5f48e24ad6ea029e73-8550044ab93d0fcb8121ee848209ccbe-1781570719-1781559919
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD (RED)
+http://redforce.live:8082/STAR.MOVIES.HD/index.m3u8?token=070a0ce943f3a10657296ef7bb8b76617bc3199e-47551a21b1445bcde5b0751cde04bcce-1781570719-1781559919
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20CINEMA1745040996.png",ZEE BANGLA CINEMA (RED)
+http://redforce.live:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=0268273ae69317a63d96bc5eaacb8234a9097e42-141e838b12838473c0949832fe1547e7-1781570719-1781559919
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png",ZEE BANGLA HD (RED)
+http://redforce.live:8082/ZEE.BANGLA.HD/index.m3u8?token=66bf82f6e97769ac46a64aeed02345546cf9917e-50ab1d6ec91d3b17707ed21bf69ceef7-1781570719-1781559919
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20CINEMA%20HD1745033602.png",ZEE CINEMA HD (RED)
+http://redforce.live:8082/ZEE.CINEMA.HD/index.m3u8?token=2ddbf8cf14264121093430ca76284c62586fada2-17b13e02897a162106bc6a7d3cf2690e-1781570719-1781559919
