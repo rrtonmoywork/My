@@ -13,18 +13,16 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
 #EXTINF:-1,Ntv 720_1280
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv&format=.m3u8
-#EXTINF:-1,Sony Aath 720_1280
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA%20MOVIES%20HD1745034005.png",JALSHA MOVIES HD (RED)
-http://redforce.live:8082/JALSHA.MOVIES.HD/index.m3u8?token=93b2667a68a3720e415deeedde20e43fad9923c4-4e0f16229bdc4ca9dc89355708e4d3f7-1782252048-1782241248
+http://redforce.live:8082/JALSHA.MOVIES.HD/index.m3u8?token=cecd4986a49dd455be6886e38af131096cf8a623-9bad7b792abfe0c0fa51afda79747667-1781568326-1781557526
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20JALSHA%20HD1745033819.png",STAR JALSHA HD (RED)
-http://redforce.live:8082/STAR.JALSHA.HD/index.m3u8?token=c6c085e802051ccfda3bfc27f33ce4092979f38d-0696179dd869e69cfe7c958d28a0b9ad-1782252048-1782241248
+http://redforce.live:8082/STAR.JALSHA.HD/index.m3u8?token=d567156ba13fed1b35edf6e6a4514b0bcab78195-12cb2261032eed8126c76dff29f659f5-1781568326-1781557526
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD (RED)
-http://redforce.live:8082/STAR.MOVIES.HD/index.m3u8?token=f4c99f8cab1bcecc95a7df9644105e9a19fb4cfd-f67caf0ad1342359bff0e82b6ef24c3e-1782252048-1782241248
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR%20MOVIES%20SELECT%20HD1745038723.png",STAR MOVIES SELECT HD (RED)
-http://redforce.live:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=0422d39647e22dcbd17eeac45b0cefe573173ea4-f7bb68d7bfa58663b2c6e02d3d405d08-1782252048-1782241248
+http://redforce.live:8082/STAR.MOVIES.HD/index.m3u8?token=f7ae5f94b062bca71dfde8475c2b2d779422984a-429151460662b2c1a547b15c7969c16f-1781568326-1781557526
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20CINEMA1745040996.png",ZEE BANGLA CINEMA (RED)
-http://redforce.live:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=cd6db1a5ea7ca345047e7e223d03d48f1589fd58-636064c8ba190eb546c7a43db126659c-1782252048-1782241248
+http://redforce.live:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=84b7163b0254322f80e77c8c3419ffd372095372-5a757d46a31bb13a9abad1923748256e-1781568326-1781557526
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20BANGLA%20HD1745033633.png",ZEE BANGLA HD (RED)
-http://redforce.live:8082/ZEE.BANGLA.HD/index.m3u8?token=8c71c5c115429deee507b1190553ec241e9a51c6-eebef67eac9df529be39a108a8571bb6-1782252048-1782241248
+http://redforce.live:8082/ZEE.BANGLA.HD/index.m3u8?token=5aa5de04287bf5df47177479a36d33f926160189-1cd4404f6afabcc205d4656121454bbb-1781568326-1781557526
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE%20CINEMA%20HD1745033602.png",ZEE CINEMA HD (RED)
-http://redforce.live:8082/ZEE.CINEMA.HD/index.m3u8?token=90c8927a507f6c78fe4b557aa06c49d31045c857-bf1d644b76e33dd6c150ab00b945c6b5-1782252048-1782241248
+http://redforce.live:8082/ZEE.CINEMA.HD/index.m3u8?token=d7359829eb8359c33aba2d587c1f1e163bca81b6-8617d8c4e9276fb6f158c77b41aae8bc-1781568326-1781557526
